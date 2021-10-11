@@ -260,6 +260,21 @@ pre {
   margin: 0 10px;
 }
 
+/* js */
+
+.toggle {
+  display: none;
+}
+.show {
+  display: inline;
+}
+
+/* 
+.show:hover {
+  border-bottom: 2px solid #b4becb;
+  color: #32018f;
+} */
+
 /* Animations */
 
 @keyframes slideInFromLeft {
